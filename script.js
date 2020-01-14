@@ -1,1 +1,2 @@
-alert("Bonjour openclassrooms");
+var salutation = "Bonjour openclassrooms";
+alert(salutation);
